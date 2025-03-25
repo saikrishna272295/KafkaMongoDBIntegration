@@ -9,7 +9,7 @@ This app consumes the messages from kafka topic and save them to the DB
 1. [Step 1: Preparation](#step-1-preparation)
 2. [Step 2: Setup](#step-2-setup)
 3. [Step 3: Execution](#step-3-execution)
-4. [Step 4: Finalization](#step-4-finalization)
+4. [Step 4: Output](#step-4-output)
 
 ---
 
