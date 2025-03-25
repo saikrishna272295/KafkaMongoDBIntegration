@@ -38,7 +38,7 @@ docker-compose up -d
 Run this SpringBoot App in your favourite ide
 
 ### Check the saved data in the DB
-docker exec -it <mongo db container> mongo kafka-demo <br>
+docker exec -it <mongo db container> mongosh kafka-demo <br>
 db.messages.find()
 
 ### close the containers
